@@ -1,1 +1,4 @@
-# 1FPL2023
+### 1FPL2023
+## PENSAMENTO COMPUTACIONAL
+# CAIO SARTER
+- Col. Est. Paulo Leminski
